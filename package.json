@@ -1,0 +1,27 @@
+{
+  "name": "nodehttpserver",
+  "version": "0.1.0",
+  "description": "nodehttpserver is a simple Node jS web server application",
+  "source": "src/nodehttpserver.js",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deandevl/nodehttpserver.git"
+  },
+  "keywords": [
+    "Node",
+    "Http"
+  ],
+  "author": "Rick Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deandevl/nodehttpserver/issues"
+  },
+  "homepage": "https://github.com/deandevl/nodehttpserver#readme",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  }
+}

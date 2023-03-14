@@ -1,0 +1,11 @@
+{
+  "name": "simple-hello-test",
+  "version": "0.1.0",
+  "description": "Test NodeJS server nodehttpserver",
+  "main": "nodehttpserver.js",
+  "author": "Rick Dean",
+  "license": "MIT",
+  "dependencies": {
+    "nodehttpserver": "git+https://github.com/deandevl/nodehttpserver.git"
+  }
+}
