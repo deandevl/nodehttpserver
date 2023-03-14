@@ -10,7 +10,7 @@ const {
   get_query_str,
   get_query_obj,
   find_object,
-  global_error_emitter} = require('../nodehttpserver.js');
+  global_error_emitter} = require('nodehttpserver');
 
 // function for checking/getting tour id's from a querystring
 // returns tour _id number contained in the querystring
